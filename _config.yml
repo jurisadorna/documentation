@@ -2,7 +2,7 @@ title: [WIP] Ariadne Documentation
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://wsg-ariadne.github.io/documentation
+url: https://wsg-ariadne.github.io/
 
 aux_links:
-  Template Repository: https://wsg-ariadne.github.io/documentation
+  Template Repository: https://wsg-ariadne.github.io/
